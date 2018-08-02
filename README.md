@@ -7,7 +7,7 @@ This is a package for getting lottery related data from [Milli Piyango](http://w
 pip install milli-piyango
 ```
 
-# Usage
+## Usage
 
 For most case:
 ```python
