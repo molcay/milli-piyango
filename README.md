@@ -19,11 +19,11 @@ print(mP.GAME_LIST)
 
 # Get available drawing dates for given games
 # Available game names
-# - mp.PIYANGO
-# - mp.SAYISAL
-# - mp.SANS_TOPU
-# - mp.ON_NUMARA
-# - mp.SUPER_LOTO
+# - mP.PIYANGO
+# - mP.SAYISAL
+# - mP.SANS_TOPU
+# - mP.ON_NUMARA
+# - mP.SUPER_LOTO
 dates = mP().get_draw_dates(mP.ON_NUMARA)
 # [ {'tarih': '20180730', 'tarihView': '30-07-2018'}, ... ]
 
